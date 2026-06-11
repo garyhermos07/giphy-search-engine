@@ -106,3 +106,12 @@ button {
     padding: 10px 15px;
     border-radius: 5px;
 }
+
+button:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+button:hover {
+    background-color: red;
+}
