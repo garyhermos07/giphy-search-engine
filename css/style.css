@@ -68,3 +68,25 @@ button {
         width: 100%;
     }
 }
+
+body {
+    max-width: 1200;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.gif-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
