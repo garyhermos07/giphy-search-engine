@@ -29,5 +29,14 @@ A responsive web GIF search engine built with HTML,CSS,JavaScript, and the Giphy
 2. Add trending GIF section 
 3. Add favorite GIF saving feature
 
+## Challenges
+. Connecting the search bar to display results correctly 
+. Fixing issues with images display from JavaScript/API
+. Adjusting layout for better responsiveness
+
+
 ## Wireframe
 ! [Wireframe](images/Wireframe.png)
+
+## Author
+ Created by: Gary Hermosa
