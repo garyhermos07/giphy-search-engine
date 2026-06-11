@@ -90,3 +90,11 @@ img {
     flex-wrap: wrap;
     gap: 15px;
 }
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
