@@ -115,3 +115,17 @@ button:hover {
 button:hover {
     background-color: red;
 }
+
+.footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    margin-top: 30px;
+}
+
+.footer-sub {
+    font-size: 14px;
+    color: #bbb;
+    margin-top: 5px;
+}
