@@ -28,3 +28,6 @@ A responsive web GIF search engine built with HTML,CSS,JavaScript, and the Giphy
 1. Add dark mode
 2. Add trending GIF section 
 3. Add favorite GIF saving feature
+
+## Wireframe
+! [Wireframe](images/Wireframe.png)
