@@ -155,3 +155,8 @@ body {
 main {
     flex: 1;
 }
+
+button:active, .btn:active {
+    background-color: #cc2424 !important;
+    transform: scale(0.98);
+}
